@@ -12,7 +12,12 @@ html {
 h1 {
   text-align: center;
 }
-
+form {
+  margin: 20px 0;
+}
+form #content {
+  font-size: 20px;
+}
 table,
 td,
 th {
