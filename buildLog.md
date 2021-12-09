@@ -35,3 +35,7 @@ pip install flask flask-sqlalchemy
 ```
 pip install gunicorn
 ```
+
+9. add procfile
+
+10. heroku deployment
