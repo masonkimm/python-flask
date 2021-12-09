@@ -27,3 +27,11 @@ pip install flask flask-sqlalchemy
 - db.create_all()
 - exit()
 ```
+
+7. CRUD methods
+
+8. install gunicorn
+
+```
+pip install gunicorn
+```
